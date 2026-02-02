@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I’m Jack 👋
 
-<!--
-**jpc2301-netizen/jpc2301-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Junior Frontend Developer focused on building interactive, data-driven web applications using React and JavaScript.
 
-Here are some ideas to get you started:
+## 🚀 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎵 Music Dashboard
+React-based dashboard with API integration, favourites system, and stats view.  
+👉 Live: https://jacksmusic-dashboard.netlify.app/  
+👉 Code: https://github.com/jpc2301-netizen/music-dashboard  
+
+### 🌦 Weather App
+JavaScript app using real-time API data and dynamic UI updates.  
+👉 Live: https://jacksweather-app.netlify.app/  
+👉 Code: https://github.com/jpc2301-netizen/jpc-weather-app  
+
+### ✔️ Job Tracker
+React CRUD app for tracking job applications with localStorage persistence.  
+👉 Live: https://jacksjob-tracker.netlify.app/  
+👉 Code: https://github.com/jpc2301-netizen/job-tracker  
+
+## 🛠 Tech Stack
+JavaScript | React | APIs | HTML | CSS | Git | Netlify
+
+## 🎯 Currently Working On
+Improving React skills and building real-world frontend projects.
