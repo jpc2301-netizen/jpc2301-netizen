@@ -6,7 +6,7 @@ Aspiring Junior Frontend Developer focused on building interactive, data-driven 
 
 ### 🎵 Music Dashboard
 React-based dashboard with API integration, favourites system, and stats view.  
-👉 Live: https://jacksmusic-dashboard.netlify.app/  
+👉 Live: (https://music-dashbord.netlify.app/)
 👉 Code: https://github.com/jpc2301-netizen/music-dashboard  
 
 ### 🌦 Weather App
